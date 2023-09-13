@@ -9,15 +9,15 @@ function setup() {
   oggy.shapeColor="deepskyblue";
   edges=createEdgeSprites();
   
-  joey=createSprite(700,0,50,50);
-  joey.shapeColor="fushsica";
+  joey=createSprite(70,502,50,50);
+  joey.shapeColor="fuchsia";
   edges=createEdgeSprites();
 
-  marky=createSprite(0,700,50,50);
+  marky=createSprite(51,520,50,50);
   marky.shapeColor="gainsboro";
   edges=createEdgeSprites();
 
-  deedee=createSprite(1000,700,50,50);
+  deedee=createSprite(40,510,50,50);
   deedee.shapeColor="lightsteelblue";
   edges=createEdgeSprites();
 
